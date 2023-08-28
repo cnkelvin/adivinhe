@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; 
+}
+
+/* app */
+
+#app {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100vh;
+}
+
+/* img */
+
+img {
+	cursor: pointer;
+}
+
+.sameSpace {
+	position: absolute;
+}
+
